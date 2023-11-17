@@ -1,0 +1,22 @@
+site_name: Mi Docs
+site_url: https://websergi.com/
+docs_dir: 'docs'
+site_dir: 'site'
+
+nav:
+  - Home: 'index.md'
+  - SPIDE: 'pagina1.md'
+  - THOR: 'pagina2.md'
+  - IRON: 'pagina3.md'
+
+theme:
+  name: material
+  name: mkdocs
+  nav_style: dark
+  palette:
+    scheme: default
+    primary: blue
+  features:
+    - navigation.instant
+  
+
